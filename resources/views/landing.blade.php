@@ -1,4 +1,10 @@
 <!DOCTYPE html>
+<!--Token de Docker:
+   Token practica2laravel
+   Read, Write, Delete
+   docker login -u eduardo1403
+   dckr_pat_6BVpbYN6Cp0YblzmrCOKSgtvb7M
+-->
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
